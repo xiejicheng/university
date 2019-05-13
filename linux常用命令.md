@@ -528,7 +528,12 @@ echo `date`                                    // date 为显示日期的命令
 
 ​		more +20 testfile
 
-
+#### 5.which 查找文件
+Linux which命令用于查找文件。
+which指令会在环境变量$PATH设置的目录里查找符合条件的文件。
+**实例：**
+​ $ which bash  
+​ /bin/bash   
 
 #### 文档资料
 
