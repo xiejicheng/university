@@ -4,7 +4,7 @@
 
 ​	cat 命令用于连接文件并打印到标准输出设备上。cat可以用来制作镜像文件。
 
-**语法格式：**cat [-AbeEnstTuv] [--help] [--version] fileName
+**语法格式:** cat [-AbeEnstTuv] [--help] [--version] fileName
 
 **参数说明**：
 
