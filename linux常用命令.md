@@ -2431,7 +2431,7 @@ xfrm IPSec协议框架
 
 #### 4.netstat     显示网络状态
 
-​	etstat命令用于显示网络状态。
+​	netstat命令用于显示网络状态。
 
 ​	利用netstat指令可让你得知整个Linux系统的网络情况。	
 
