@@ -42,7 +42,7 @@
 
 
 
-![lvs工作原理](https://github.com/xiejicheng/university/blob/master/img/lvs%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png)
+![lvs工作原理](https://github.com/xiejicheng/university/blob/master/img/lvs工作原理.png)
 
 
 
