@@ -42,7 +42,7 @@
 
 
 
-![lvs工作原理](https://github.com/xiejicheng/university/tree/master/img/lvs工作原理.png)
+![lvs工作原理](https://github.com/xiejicheng/university//img/lvs工作原理.png)
 
 
 
@@ -69,7 +69,7 @@
 
 NAT：Network Address Translation  **网络地址转换**
 
-**LVS NAT： ** 修改目标 IP 地址为挑选出新的 RS 的 IP 地址。即请求进入负载均衡器时做 DNAT，响应出负载均衡器时做 SNAT
+**LVS NAT：** 修改目标 IP 地址为挑选出新的 RS 的 IP 地址。即请求进入负载均衡器时做 DNAT，响应出负载均衡器时做 SNAT
 
 > DNAT：修改目的IP地址从A变B，使得发送方以为自己发送给了A，实际上是发送给了B
 
