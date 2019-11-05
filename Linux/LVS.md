@@ -42,7 +42,7 @@
 
 
 
-![lvs工作原理](https://github.com/xiejicheng/university//img/lvs工作原理.png)
+![lvs工作原理](https://github.com/xiejicheng/university/blob/master/img/lvs工作原理.png)
 
 
 
@@ -79,7 +79,7 @@ NAT：Network Address Translation  **网络地址转换**
 
 **DNAT** 就是指数据包从网卡发送出去的时候，修改数据包中的目的IP，表现为如果你想访问A，可是因为网关做了DNAT，把所有访问A的数据包的目的IP全部修改为B，那么，你实际上访问的是B。
 
-![lvs-nat](C:\Users\10107\Desktop\博客文章\img\lvs-nat.png)
+![lvs-nat](https://github.com/xiejicheng/university/blob/master/img/lvs-nat.png)
 
  
 
